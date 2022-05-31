@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_marginTop="8dp"
+    android:paddingBottom="10dp"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/colorThemeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:text="Choose color theme"
+        android:fontFamily="@font/nunito"
+        android:textSize="13sp"
+        app:layout_constraintStart_toStartOf="@+id/pinkColorTheme"
+        android:textColor="#011F39"/>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/pinkColorTheme"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/bottom_nav_back1"
+        app:layout_constraintBottom_toTopOf="@+id/skyColorTheme"
+        app:layout_constraintEnd_toStartOf="@+id/greenGrayColorTheme"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/colorThemeText"
+        />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/greenGrayColorTheme"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/bottom_nav_back2"
+        app:layout_constraintBottom_toTopOf="@+id/lightYellowColorTheme"
+        app:layout_constraintEnd_toStartOf="@+id/orangeColorTheme"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/pinkColorTheme"
+        app:layout_constraintTop_toBottomOf="@+id/colorThemeText"
+        />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/orangeColorTheme"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/bottom_nav_back3"
+        app:layout_constraintBottom_toTopOf="@+id/lightVioletColorTheme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/greenGrayColorTheme"
+        app:layout_constraintTop_toBottomOf="@+id/colorThemeText"/>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/skyColorTheme"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/sky_color_back"
+        app:layout_constraintBottom_toTopOf="@+id/nightSkyColorTheme"
+        app:layout_constraintEnd_toStartOf="@+id/lightYellowColorTheme"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/pinkColorTheme" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/lightYellowColorTheme"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/light_yellow_color_back"
+        app:layout_constraintBottom_toTopOf="@+id/lightGreenColorTheme"
+        app:layout_constraintEnd_toStartOf="@+id/lightVioletColorTheme"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/skyColorTheme"
+        app:layout_constraintTop_toBottomOf="@+id/greenGrayColorTheme" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/lightVioletColorTheme"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/light_violet_color_back"
+        app:layout_constraintBottom_toTopOf="@+id/slimOrangeColorTheme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/lightYellowColorTheme"
+        app:layout_constraintTop_toBottomOf="@+id/orangeColorTheme" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/nightSkyColorTheme"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/night_sky_back"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/lightGreenColorTheme"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/skyColorTheme" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/lightGreenColorTheme"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/light_green_back"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/slimOrangeColorTheme"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/nightSkyColorTheme"
+        app:layout_constraintTop_toBottomOf="@+id/lightYellowColorTheme" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/slimOrangeColorTheme"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/slim_orange_back"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/lightGreenColorTheme"
+        app:layout_constraintTop_toBottomOf="@+id/lightVioletColorTheme" />
+</androidx.constraintlayout.widget.ConstraintLayout>

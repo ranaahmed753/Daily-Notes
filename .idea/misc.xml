@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/add_btn_back.xml" value="0.22962962962962963" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/arrow_back.xml" value="0.22962962962962963" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/arrow_forward.xml" value="0.18796296296296297" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/bottom_nav_back1.xml" value="0.2515625" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/bottom_nav_back2.xml" value="0.2515625" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/bottom_nav_back3.xml" value="0.2515625" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/bubble.xml" value="0.2351851851851852" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/color_theme.xml" value="0.24537037037037038" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/custom_popup_back.xml" value="0.2713541666666667" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/edittext_back.xml" value="0.21770833333333334" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/fat_arrow.xml" value="0.24537037037037038" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/ic_add.xml" value="0.22962962962962963" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/ic_email.xml" value="0.2351851851851852" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/ic_lock.xml" value="0.2351851851851852" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/ic_more_verticcal.xml" value="0.24537037037037038" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/ic_navigation_drawer.xml" value="0.21770833333333334" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/ic_person.xml" value="0.2351851851851852" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/ic_phone.xml" value="0.2351851851851852" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/light_green_back.xml" value="0.2557291666666667" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/light_violet_color_back.xml" value="0.2557291666666667" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/light_yellow_color_back.xml" value="0.2557291666666667" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/nav_container.xml" value="0.2557291666666667" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/night_sky_back.xml" value="0.2557291666666667" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/notes_back.xml" value="0.2287179487179487" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/register_back.xml" value="0.18796296296296297" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/register_card.xml" value="0.262037037037037" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/round_email.xml" value="0.21354166666666666" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/search_back.xml" value="0.2557291666666667" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/signup_btn.xml" value="0.262037037037037" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/sky_color_back.xml" value="0.2557291666666667" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/drawable/slim_orange_back.xml" value="0.2557291666666667" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/layout/activity_create_notes.xml" value="0.25271739130434784" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/layout/activity_details.xml" value="0.22" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/layout/activity_login.xml" value="0.2552083333333333" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/layout/activity_main.xml" value="0.1897644927536232" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.2015625" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/layout/activity_signup.xml" value="0.33" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/layout/activity_update_notes.xml" value="0.2552083333333333" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/layout/bottom_nav_item.xml" value="0.33" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/layout/custom_popup.xml" value="0.2552083333333333" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/layout/menu.xml" value="0.67" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/layout/notes.xml" value="0.75" />
+        <entry key="..\:/My Coding/Android/kotlin/Daily Note/Daily Notes/app/src/main/res/layout/nothing_found.xml" value="0.2552083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

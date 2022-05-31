@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93021231887",
+    "project_id": "dailly-notes",
+    "storage_bucket": "dailly-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93021231887:android:1689ee8b9bbc5c3ddcbc7a",
+        "android_client_info": {
+          "package_name": "edu.notes.daily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93021231887-n9jsfhi3tred842vk3f6hblrltpsp2un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEr6E6miJuAZO6qYp5-byWx_qYnDJ3X9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93021231887-n9jsfhi3tred842vk3f6hblrltpsp2un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
